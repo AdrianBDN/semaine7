@@ -2,4 +2,6 @@
 
 ## Exercices semaine 7
 
-* Ajout effet smooth scroll au CV : En cours
+* Exercices semaine 6 et 7 CV
+
+** Integrer Bootstrap + Smooth Scroll JQuery + Portfolio
